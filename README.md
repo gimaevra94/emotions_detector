@@ -1,1 +1,1 @@
-# emotions_detector
+data_dowload_link.txt - ссылка на данные состоящие из 3 папок. Папка test содержит 7 классов по 111 изображений. train 7 по 1000. val 7 по 3
